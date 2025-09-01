@@ -60,7 +60,7 @@ Customer purchasing behavior 👥
 
 Clone the repository:
 
-git clone https://github.com/your-username/supermart-grocery-sales.git
+git clone https://github.com/srigirinikhila/-Supermart-Grocery-Sales--Retail-Analytics-Dataset.git
 cd supermart-grocery-sales
 
 
